@@ -3,8 +3,9 @@ public class Helloword {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ÕâÊÇÎÒµÄ²âÊÔ£¡");
-		// ²âÊÔ±ä¶¯Çé¿ö
+		System.out.println("è¿™æ˜¯æˆ‘çš„æµ‹è¯•ï¼");
+		// æµ‹è¯•å˜åŠ¨æƒ…å†µ
+		System.out.print("QQ å¤šå¥½!")
 	}
 
 }
