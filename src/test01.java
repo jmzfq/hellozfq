@@ -6,7 +6,7 @@ public class test01 {
 		int i=12;
 		int j=23;
 		int k =i + j;
-		System.out.println("my result" + k);
+		System.out.println("my result" + k);//什么会有这些问题
 		
 	}
 
