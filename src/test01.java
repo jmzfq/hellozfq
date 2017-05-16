@@ -6,7 +6,8 @@ public class test01 {
 		int i=12;
 		int j=23;
 		int k =i + j;
-		System.out.println("我的结果=" + k);//测试完成
+		System.out.println("my result" + k);
+		
 	}
 
 }
